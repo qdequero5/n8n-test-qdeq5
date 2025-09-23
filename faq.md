@@ -1,0 +1,9 @@
+# FAQ
+
+**¿Qué es un MVP?**  
+Versión mínima para validar una idea con usuarios reales.
+
+**¿Qué hacer si el bot no responde?**  
+1) Revisa que estás en un canal/DM donde el bot esté.  
+2) Intenta de nuevo.  
+3) Avisa a IT.
