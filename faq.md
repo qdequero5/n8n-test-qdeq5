@@ -7,3 +7,5 @@ Versión mínima para validar una idea con usuarios reales.
 1) Revisa que estás en un canal/DM donde el bot esté.  
 2) Intenta de nuevo.  
 3) Avisa a IT.
+# Test desde GitHub Web
+Este es un archivo nuevo para probar el Trigger de n8n.
