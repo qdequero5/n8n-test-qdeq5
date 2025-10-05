@@ -1,0 +1,90 @@
+# SOP: Out of Office (OOO)
+
+## Objetivo
+Establecer un procedimiento estándar para notificar, planificar y cubrir ausencias temporales del personal, asegurando la continuidad de las operaciones y la comunicación efectiva dentro del equipo y con los clientes.
+
+---
+
+## 1. OOO para Account Managers
+
+### 1.1. Notificación
+- Avisar al **Team Leader** y al equipo de **Support** con al menos **5 días hábiles** de antelación.  
+- Registrar las fechas de ausencia en el **calendario compartido del equipo** y marcar en Slack el estado como “OOO”.  
+- Configurar un **mensaje de respuesta automática en email** y en **Slack** indicando:
+  - Fechas de ausencia.
+  - Persona de contacto alternativa (nombre, rol y correo).
+  - Fecha de retorno.
+
+### 1.2. Cobertura
+- Asignar un **AM backup** que dará seguimiento a:
+  - Comunicaciones abiertas con clientes.
+  - Reportes o actualizaciones programadas.
+  - Escalaciones urgentes.
+- Documentar en un mensaje de traspaso (hand-off) toda la información relevante:
+  - Estado de cuentas prioritarias.
+  - Próximas reuniones o entregas.
+  - Puntos pendientes de respuesta o decisiones clave.
+
+### 1.3. Retorno
+- Revisar mensajes de email, Slack y CRM para ponerse al día.  
+- Coordinar una breve reunión de actualización con el **AM backup** si es necesario.
+
+---
+
+## 2. OOO para Support
+
+### 2.1. Notificación
+- Informar al **Team Leader de Support** con un mínimo de **3 días hábiles** de anticipación.  
+- Actualizar el estado de disponibilidad en la herramienta de soporte (por ejemplo, **Zendesk**, **Intercom**, etc.) para reflejar la ausencia.  
+- Establecer un mensaje automático para los tickets entrantes si aplica.
+
+### 2.2. Cobertura
+- El **Team Leader** reasignará tickets y responsabilidades a otros miembros del equipo.  
+- Si el soporte se realiza por turnos, se ajustará el calendario para mantener la cobertura.  
+- Documentar los casos en curso antes de la ausencia:
+  - Tickets en proceso con notas claras.
+  - Casos con seguimiento pendiente.
+  - Escalaciones identificadas.
+
+### 2.3. Retorno
+- Revisar tickets atendidos durante la ausencia.  
+- Leer el resumen de traspaso (si aplica) o verificar el historial de tickets para conocer actualizaciones.  
+- Retomar gradualmente la carga de trabajo.
+
+---
+
+## 3. OOO para Team Leaders
+
+### 3.1. Notificación
+- Informar a su **manager directo** y al equipo con **una semana de anticipación**.  
+- Registrar la ausencia en el **calendario general** y establecer estado OOO en Slack.  
+- Designar a un **Team Leader sustituto** o **punto de contacto temporal**.
+
+### 3.2. Cobertura
+- Delegar funciones críticas como:
+  - Aprobaciones y revisiones internas.
+  - Seguimiento de métricas y KPIs del equipo.
+  - Comunicación con stakeholders o dirección.
+- Documentar los temas abiertos en un **informe de hand-off**:
+  - Prioridades del equipo.
+  - Proyectos en curso.
+  - Riesgos o decisiones pendientes.
+
+### 3.3. Retorno
+- Revisar reportes semanales del equipo y comunicaciones internas.  
+- Mantener una reunión breve con el sustituto para recibir un resumen de lo ocurrido.  
+- Actualizar cualquier cambio en planes, entregables o procesos que haya surgido durante la ausencia.
+
+---
+
+## 4. Buenas prácticas generales
+- Siempre incluir una persona de contacto en cada OOO.  
+- Mantener un tono profesional y claro en los mensajes automáticos.  
+- Evitar dejar tareas críticas sin seguimiento o documentación.  
+- Actualizar herramientas internas (Notion, CRM, calendarios) antes de partir.  
+- Si la ausencia se extiende, comunicarlo proactivamente.
+
+---
+
+**Última actualización:** Octubre 2025  
+**Responsable del documento:** [Nombre del responsable o equipo]
